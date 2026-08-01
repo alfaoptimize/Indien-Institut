@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Indien-Institut - Mitgliederverwaltung</title>
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    html, body {
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+      background-color: white;
+    }
+    iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+      display: block;
+    }
+  </style>
+</head>
+<body>
+
+  <iframe 
+    src="https://script.google.com/a/macros/alfaoptimize.de/s/AKfycbxpt09VquvrD81hs7z0ISKTQATBrFyKTlwTbcMlhv5HfK33DVI7aEc93GFcm-_V9Jub1Q/exec"
+    allow="geolocation; microphone; camera">
+  </iframe>
+
+</body>
+</html>
